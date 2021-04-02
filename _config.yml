@@ -68,13 +68,9 @@ description: あらB.fm はゲストと一緒にくだをまく様子をお届�
 description_long: あらB.fm はゲストと一緒にくだをまく様子をお届けするポッドキャストです。お便りは bit.do/arkbfm ハッシュタグは #arkbfm
 email: arkbb3@gmail.com
 exclude:
-  - docker
-  - docker-compose.yml
   - Gemfile
   - Gemfile.lock
   - LICENSE.txt
-  - README.md
-  - vendor
 google_analytics:
 hashtag: arkbfm
 itunes_podcast_url:
@@ -86,4 +82,4 @@ sass:
   sass_dir: css
 timezone: Asia/Tokyo
 title: あらB.fm
-url: https://arkb.github.io/arkb/
+url: https://arkb.github.io/arkbfm/
