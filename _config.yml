@@ -65,7 +65,7 @@ actors:
     url: https://twitter.com/oooTORIBALLooo
 author: ark_B
 description: あらB.fm はゲストと一緒にくだをまく様子をお届けするポッドキャストです。
-description_long: あらB.fm はゲストと一緒にくだをまく様子をお届けするポッドキャストです。お便りは bit.do/arkbfm ハッシュタグは #arkbfm
+description_long: あらB.fm はゲストと一緒にくだをまく様子をお届けするポッドキャストです。
 email: arkbb3@gmail.com
 exclude:
   - Gemfile
